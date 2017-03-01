@@ -1,0 +1,23 @@
+{
+  "brackets": "never",
+  "colons": "never",
+  "commaSpace": "always",
+  "commentSpace": "always",
+  "duplicates": true,
+  "efficient": "always",
+  "indentPref": 2,
+  "leadingZero": "never",
+  "namingConvention": "BEM",
+  "namingConventionStrict": true,
+  "none": "always",
+  "parenSpace": "never",
+  "prefixVarsWithDollar": false,
+  "quotePref": "single",
+  "semicolons": "never",
+  "sortOrder": "alphabetical",
+  "stackedProperties": "never",
+  "trailingWhitespace": "never",
+  "valid": true,
+  "zeroUnits": "never",
+  "zIndexNormalize": false
+}
